@@ -318,7 +318,7 @@ img{
 /* --------------- BEGIN RESPONSIVE IMAGE ADJUST SIZES --------------- */
     img{
         width: 100%;
-        max-width: 100%;
+        max-width: 300px;
         height: auto;
     } 
 /* --------------- END RESPONSIVE IMAGE ADJUST SIZES --------------- */
